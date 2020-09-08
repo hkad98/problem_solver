@@ -1,0 +1,25 @@
+NOUN a NUM krát málo NOUN | NUM1 / NUM2
+mít tak o NUM NOUN hodně | NUM1 - NUM2
+mít tak o NUM NOUN málo | NUM1 + NUM2
+což být o NUM NOUN hodně | NUM1 - NUM2
+což být o NUM NOUN málo | NUM1 + NUM2
+být tedy o NUM NOUN starý | NUM1 - NUM2
+být tedy o NUM NOUN mladý | NUM1 + NUM2
+což být o NUM hodně | NUM1 - NUM2
+což být o NUM málo | NUM1 + NUM2
+mít tak o NUM hodně | NUM1 - NUM2
+mít tak o NUM málo | NUM1 + NUM2
+být o NUM NOUN vysoký | NUM1 + NUM2
+být o NUM NOUN malý | NUM1 - NUM2
+být o NUM NOUN zlevnit | NUM1 - NUM2
+být o NUM NOUN zdražit | NUM1 + NUM2
+být o NUM NOUN levný | NUM1 - NUM2
+být o NUM NOUN drahý | NUM1 + NUM2
+o NUM NOUN hodně | NUM1 + NUM2
+o NUM NOUN málo | NUM1 - NUM2
+o NUM NOUN dále | NUM1 + NUM2
+o NUM NOUN mladý | NUM1 - NUM2
+o NUM NOUN starý | NUM1 + NUM2
+o NUM NOUN dlouho | NUM1 + NUM2
+o NUM málo | NUM1 - NUM2
+o NUM hodně | NUM1 + NUM2

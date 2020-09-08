@@ -1,0 +1,8 @@
+Kolik NOUN NOUN zbýt? | NUM1 - NUM2
+Kolik NOUN NOUN zůstat? | NUM1 - NUM2
+Kolik NOUN zbýt NOUN v NOUN? | NUM1 - NUM2
+o kolik _ | max(NUM1,NUM2) - min(NUM1,NUM2)
+celkem | NUM1 + NUM2
+dohromady | NUM1 + NUM2
+zbýt | NUM1 - NUM2
+zůstat | NUM1 - NUM2

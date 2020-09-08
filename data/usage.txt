@@ -1,0 +1,3 @@
+[1]: vstup slovní úloha
+[2]: vstup soubor se slovními úlohami
+[3]: konec

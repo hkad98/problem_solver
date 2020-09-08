@@ -1,0 +1,1 @@
+{'QUESTION': {'VERB': -13, 'PREP': -6, 'CONJ': -5, 'ADV': -24, 'PRON': -2}, 'WP': {'VERB': -3, 'PREP': -6, 'CONJ': -4, 'ADV': -10, 'PRON': 11}}

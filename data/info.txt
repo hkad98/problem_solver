@@ -1,0 +1,8 @@
+INFO:
+Program automaticky vyhodnocuje matematické slovní úlohy pro český jazyk.
+Funguje na principu strojového učení a syntaktické analýzy, slovníků a heuristik.
+Více informací je možné nalézt v samotné bakalářské práci, nebo v dokumentaci programu.
+_______________________________________________________________________________________
+Obsluha programu:
+Klasifikátor je natrénovaný na množině slovních úloh, kterou je možné nalézt v adresáři ./data/traindata. 
+Program není schopen vyhodnotit slovní úlohy, jejichž řešením je jiný výraz než v trénovací množině.
